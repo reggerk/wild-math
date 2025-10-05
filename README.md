@@ -1,2 +1,2 @@
 # wild-math
-Development of Java packages with Wildberger notions of math.
+Development of Python classes with Wildberger notions of math.
